@@ -7,6 +7,6 @@
 `go run main.go`
 
 ### For building exe for Mac, Windows, Linux use:
-MAC ` GOOS='darwin' go build`
-WINDOWS ` GOOS='windows' go build`
-LINUX ` GOOS='linux' go build`
+- MAC ` GOOS='darwin' go build`
+- WINDOWS ` GOOS='windows' go build`
+- LINUX ` GOOS='linux' go build`
